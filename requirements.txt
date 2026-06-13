@@ -1,1 +1,1 @@
-git+https://github.com/tlitfin/lmi4boltz
+https://github.com/tlitfin/lmi4boltz/archive/refs/heads/lmi4boltz.zip
